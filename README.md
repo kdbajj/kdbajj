@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 
 # 💫 About Me:
 🎓 Student at Opole University<br>💼 Working in MyTaple<br>📈 Frontend web developer<br>
