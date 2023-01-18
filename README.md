@@ -1,7 +1,7 @@
 ### Hi👋
 
 # 💫 About Me:
-🎓 Student at Opole University<br>📈 Frontend web developer<br>
+🎓 Student at Opole University<br>📈 Future frontend web developer<br>
 
 
 ## 🌐 Socials:
