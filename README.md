@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning React.js<br>🎓 IT Student at Opole University<br>📈 Future frontend web developer<br>⚡️ Fun fact: I love learning programming!<3
+🌱 I'm currently learning React.js<br>🎓 IT Student at Opole University | UX/UI Designer<br>📈 Future frontend web developer<br>⚡️ Fun fact: I love learning programming!<3
 
 
 ## 🌐 Socials:
